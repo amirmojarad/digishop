@@ -1,0 +1,9 @@
+[submodule "user"]
+	path = user
+	url = ./user
+[submodule "product"]
+	path = product
+	url = ./product
+[submodule "order"]
+	path = order
+	url = ./order
