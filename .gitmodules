@@ -3,7 +3,7 @@
 	url = ./user
 [submodule "product"]
 	path = product
-	url = ./product
+	url = git@github.com:amirmojarad/digishop_product.git
 [submodule "order"]
 	path = order
 	url = ./order
